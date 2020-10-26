@@ -1,9 +1,54 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+{
+"Title": "Golden Gate Bridge",
+"Notes": "Foggy, but beautiful.",
+"Rating": 5,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+}
+],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
