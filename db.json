@@ -9,6 +9,21 @@
 "Longitude": -122.4798
 },
 {
+"Title": "Washington Monument",
+"Notes": "Amazing!",
+"Rating": 3,
+"Date": "2019-1-26",
+"Latitude": 38.8895,
+"Longitude": -77.0352
+},
+{
+"Title": "Statue of Liberty",
+"Notes": "Inspiring!",
+"Rating": 4,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},{
 "Title": "Golden Gate Bridge",
 "Notes": "Foggy, but beautiful.",
 "Rating": 5,
@@ -17,6 +32,22 @@
 "Longitude": -122.4798
 },
 {
+"Title": "Washington Monument",
+"Notes": "Amazing!",
+"Rating": 3,
+"Date": "2019-1-26",
+"Latitude": 38.8895,
+"Longitude": -77.0352
+},
+{
+"Title": "Statue of Liberty",
+"Notes": "Inspiring!",
+"Rating": 4,
+"Date": "2019-4-26",
+"Latitude": 37.8268,
+"Longitude": -122.4798
+},
+  {
 "Title": "Golden Gate Bridge",
 "Notes": "Foggy, but beautiful.",
 "Rating": 5,
@@ -25,30 +56,22 @@
 "Longitude": -122.4798
 },
 {
-"Title": "Golden Gate Bridge",
-"Notes": "Foggy, but beautiful.",
-"Rating": 5,
-"Date": "2019-4-26",
-"Latitude": 37.8268,
-"Longitude": -122.4798
+"Title": "Washington Monument",
+"Notes": "Amazing!",
+"Rating": 3,
+"Date": "2019-1-26",
+"Latitude": 38.8895,
+"Longitude": -77.0352
 },
 {
-"Title": "Golden Gate Bridge",
-"Notes": "Foggy, but beautiful.",
-"Rating": 5,
-"Date": "2019-4-26",
-"Latitude": 37.8268,
-"Longitude": -122.4798
-},
-{
-"Title": "Golden Gate Bridge",
-"Notes": "Foggy, but beautiful.",
-"Rating": 5,
+"Title": "Statue of Liberty",
+"Notes": "Inspiring!",
+"Rating": 4,
 "Date": "2019-4-26",
 "Latitude": 37.8268,
 "Longitude": -122.4798
 }
-],
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
